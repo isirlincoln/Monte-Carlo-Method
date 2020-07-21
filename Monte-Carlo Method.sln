@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monte-Carlo Method", "Monte-Carlo Method\Monte-Carlo Method.csproj", "{213F15BB-F926-4B71-A0EB-EA7A4D8EA32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213F15BB-F926-4B71-A0EB-EA7A4D8EA32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213F15BB-F926-4B71-A0EB-EA7A4D8EA32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213F15BB-F926-4B71-A0EB-EA7A4D8EA32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213F15BB-F926-4B71-A0EB-EA7A4D8EA32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EC4475D-92D0-4754-9382-1527FDBFA484}
+	EndGlobalSection
+EndGlobal
